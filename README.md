@@ -1,6 +1,6 @@
 # AdmitFlow
 
-Admission Lead Management Platform for Overseas Education Consultancies
+Admission Lead Management Platform for Education Consultancies
 
 ## Problem Statement
 
