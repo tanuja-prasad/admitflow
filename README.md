@@ -10,5 +10,5 @@ AdmitFlow is a web-based platform designed to digitize and streamline the comple
 
 ## Status
 
-🚧 Currently under development.
+Currently under development.
 
